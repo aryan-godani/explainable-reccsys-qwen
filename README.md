@@ -1,8 +1,18 @@
 # Explainable Movie Recommendation System — Qwen Zero-shot vs QLoRA Fine-tuned
 
-A comparison of **zero-shot prompting** vs **QLoRA fine-tuning** for explainable movie recommendations, using Qwen models on the Amazon Movies & TV dataset. Each variant asks the model to output a structured JSON recommendation with a natural-language explanation.
+A comparison of **zero-shot prompting** vs **QLoRA fine-tuning** for explainable movie recommendations, using Qwen models on the Amazon Movies & TV dataset. Each variant asks the model to output a structured JSON recommendation with a natural-language explanation. This repository is the official implementation of:
+
+> **LLM-XRec: A Comparative Study of Zero-shot and QLoRA Fine-tuned Large Language Models for Explainable Recommendation**
+> 
+> Aryan Godani\*, Arindama Rama Kuppa\*, Aditya Dutta\*, Kaustubh Koruprolu\*, Subham Raj
+> 
+> John Nash Research, India &nbsp;|&nbsp; Indian Institute of Technology Patna, India
+> 
+> \* Equal contribution
 
 ---
+
+
 
 ## Models
 
